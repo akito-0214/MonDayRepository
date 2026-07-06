@@ -4,7 +4,8 @@ using namespace std;
 
 int main(void)
 {
-
+	Game();
+	InputCheck(int min, int max);
 
 	return 0;
 }
